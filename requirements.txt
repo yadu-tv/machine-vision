@@ -2,3 +2,5 @@ ipykernel
 pillow
 numpy
 matplotlib
+ipykernel
+opencv-python
